@@ -1,0 +1,11 @@
+{
+    "targetLocation":{
+        "lat":35.806627,
+        "lon":139.085176
+    },
+    "altitude":50,
+    "circleSettings":{
+        "radius":1000,
+        "rate":12
+    }
+}
